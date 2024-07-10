@@ -20,5 +20,5 @@ To compile the project, you can compile with gcc. Here's an example compilation 
 gcc -Wall -Werror -Wextra -D BUFFER_SIZE=10 get_next_line.c get_next_line_utils.c && ./a.out
 ```
 
-Contributors
+## Contributors
 [pschemit](https://github.com/pschemit)
