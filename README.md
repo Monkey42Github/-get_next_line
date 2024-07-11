@@ -21,4 +21,5 @@ gcc -Wall -Werror -Wextra -D BUFFER_SIZE=10 get_next_line.c get_next_line_utils.
 ```
 
 ## Contributors
-[pschemit](https://github.com/pschemit)
+[pschemit](https://github.com/Monkey42Github)
+
